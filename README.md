@@ -138,7 +138,7 @@ Tech stack used:
 The method to build the project is below : 
 1. Get the data
         ↓
-2. Parse the data       ← WE ARE HERE
+2. Parse the data       
         ↓
 3. Validate the data
         ↓
